@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T15:03:44 IST" name="Default suite" finished-at="2023-10-11T15:04:14 IST" duration-ms="30437">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T15:03:44 IST" name="Default test" finished-at="2023-10-11T15:04:14 IST" duration-ms="30437">
+      <class name="com.ninja.qa.TestPages.HomePageTest">
+        <test-method is-config="true" signature="OpenApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:03:44 IST" name="OpenApp" finished-at="2023-10-11T15:03:53 IST" duration-ms="9086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="testTitle()[pri:49, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:03:53 IST" name="testTitle" finished-at="2023-10-11T15:03:53 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:03:53 IST" name="CloseApp" finished-at="2023-10-11T15:03:54 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="OpenApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:03:54 IST" name="OpenApp" finished-at="2023-10-11T15:03:58 IST" duration-ms="4287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="testRegisterLink()[pri:50, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:03:58 IST" name="testRegisterLink" finished-at="2023-10-11T15:03:59 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterLink -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:03:59 IST" name="CloseApp" finished-at="2023-10-11T15:04:00 IST" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="OpenApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:04:00 IST" name="OpenApp" finished-at="2023-10-11T15:04:05 IST" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="testLoginLink()[pri:51, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:04:05 IST" name="testLoginLink" finished-at="2023-10-11T15:04:06 IST" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLink -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:04:06 IST" name="CloseApp" finished-at="2023-10-11T15:04:06 IST" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="OpenApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:04:06 IST" name="OpenApp" finished-at="2023-10-11T15:04:11 IST" duration-ms="4858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="testMacLink()[pri:52, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:04:11 IST" name="testMacLink" finished-at="2023-10-11T15:04:14 IST" duration-ms="2350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMacLink -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:com.ninja.qa.TestPages.HomePageTest@27406a17]" started-at="2023-10-11T15:04:14 IST" name="CloseApp" finished-at="2023-10-11T15:04:14 IST" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.ninja.qa.TestPages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
